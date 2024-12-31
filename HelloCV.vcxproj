@@ -138,6 +138,9 @@
     </ClCompile>
     <ClCompile Include="MatOP.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Path.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
